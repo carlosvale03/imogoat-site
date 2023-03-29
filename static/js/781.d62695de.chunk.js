@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimogoat=self.webpackChunkimogoat||[]).push([[781],{781:function(a,c,e){a.exports=e.p+"static/media/capa_avconceicao4070.9202cc0a41765693f226.jpeg"}}]);

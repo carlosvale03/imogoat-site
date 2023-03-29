@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimogoat=self.webpackChunkimogoat||[]).push([[788],{788:function(a,o,t){a.exports=t.p+"static/media/LOGO_goat_imob branco.9303a2623af43dd9aa93.png"}}]);

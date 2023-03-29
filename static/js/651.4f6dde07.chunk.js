@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimogoat=self.webpackChunkimogoat||[]).push([[651],{651:function(e,t,a){e.exports=a.p+"static/media/01_Estar.8ec8f90e832f1a40f954.jpg"}}]);

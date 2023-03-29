@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimogoat=self.webpackChunkimogoat||[]).push([[313],{313:function(a,e,t){a.exports=t.p+"static/media/lupa.0289e1a0783b46dcefac.jpg"}}]);

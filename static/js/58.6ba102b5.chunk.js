@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimogoat=self.webpackChunkimogoat||[]).push([[58],{58:function(o,t,a){o.exports=a.p+"static/media/LOGO_goat fundo bode.6a6c6199631673790383.png"}}]);

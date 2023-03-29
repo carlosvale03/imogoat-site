@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimogoat=self.webpackChunkimogoat||[]).push([[150],{150:function(o,a,t){o.exports=t.p+"static/media/logo-fundo-branco.3f37b64312a1dd7f5fb0.png"}}]);

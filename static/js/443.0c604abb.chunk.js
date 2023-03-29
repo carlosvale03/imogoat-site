@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimogoat=self.webpackChunkimogoat||[]).push([[443],{443:function(e,t,i){e.exports=i.p+"static/media/img_4.903d35eee4985628f3ed.jpg"}}]);

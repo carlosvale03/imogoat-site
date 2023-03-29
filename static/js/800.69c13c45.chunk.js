@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimogoat=self.webpackChunkimogoat||[]).push([[800],{800:function(o,e,a){o.exports=a.p+"static/media/logo-dourado.ba606ef1526d7c00bde3.png"}}]);
